@@ -1,0 +1,89 @@
+[
+    {
+      "id": "1",
+      "category" : "animals",
+      "question": "How fast can the fastest land animal, the cheetah, go?",
+      "answer": "75 mph",
+      "choices": ["55 mph", "30 mph", "90 mph", "75 mph" ]
+    },
+
+    {
+      "id": "2",
+      "category" : "animals",
+      "question": "What is the largest land animal?",
+      "answer": "African Elephant",
+      "choices": ["African Elephant", "Blue Whale", "Hippo", "Giraffe" ]
+    },
+
+    {
+      "id": "3",
+      "category" : "animals",
+      "question": "Which of the following animals has the shortest lifespan?",
+      "answer": "Chameleons",
+      "choices": ["Pigeons", "Dogs", "Pigeons", "Tortoises" ]
+    },
+
+    {
+      "id": "4",
+      "category" : "animals",
+      "question": "Which of the following animals usually DO NOT travel in groups?",
+      "answer": "Tigers",
+      "choices": ["Tigers", "Dolphins", "Orcas", "Lions" ]
+    },
+
+    {
+      "id": "5",
+      "category" : "animals",
+      "question": "Which of the following snakes are venomous?",
+      "answer": "Cobras",
+      "choices": ["Pythons", "Kingsnakes", "Boas", "Cobras" ]
+    },
+
+    {
+      "id": "6",
+      "category" : "animals",
+      "question": "Which of these pairs of animals are in a mutual relationship?",
+      "answer": "Cuckoo Finch and Cisticola",
+      "choices": ["Honey Badgers and Honeyguide Birds", "Sharks and Cleaner Fish", "Crocodiles and Plover Birds", "Cuckoo Finch and Cisticola" ]
+    },
+
+    {
+      "id": "7",
+      "category" : "animals",
+      "question": "Which of these places has the world’s largest biodiversity?",
+      "answer": "The Amazon Rainforest",
+      "choices": ["The African Savannah", "The Great Coral Reef", "Madagascar", "The Amazon Rainforest" ]
+    },
+
+    {
+      "id": "8",
+      "category" : "animals",
+      "question": "Which animal has the strongest jaw strength?",
+      "answer": "The Amazon Rainforest",
+      "choices": ["Gorillas", "Hippos", "Crocodiles", "Grizzly Bears" ]
+    },
+
+    {
+      "id": "9",
+      "category" : "animals",
+      "question": "Which animal has the largest eyes?",
+      "answer": "Giant Squids",
+      "choices": ["Tarsiers", "Owls", "Giant Squids", "Slow Loris" ]
+    },
+    {
+      "id": "10",
+      "category" : "animals",
+      "question": "Which of the following sea animal is NOT an actual animal?",
+      "answer": "Hard Knucklefish",
+      "choices": ["Lumpsucker", "Wunderpus photogenicus", "Dumbo Octopus", "Hard Knucklefish" ]
+    },
+
+    {
+      "id": "1",
+      "category": "science",
+      "question": "Which of the following scientists created the AC motor?",
+      "answer": "Nikola Tesla",
+      "choices": ["Thomas Edison", "Nikola Tesla", "Alva J. Fisher", "Isaac Newton"]
+    }
+
+]
