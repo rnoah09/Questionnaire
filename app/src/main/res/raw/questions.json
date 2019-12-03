@@ -20,7 +20,7 @@
       "category" : "animals",
       "question": "Which of the following animals has the shortest lifespan?",
       "answer": "Chameleons",
-      "choices": ["Pigeons", "Dogs", "Pigeons", "Tortoises" ]
+      "choices": ["Pigeons", "Dogs", "Chameleons", "Tortoises" ]
     },
 
     {
@@ -42,7 +42,7 @@
     {
       "id": "6",
       "category" : "animals",
-      "question": "Which of these pairs of animals are in a mutual relationship?",
+      "question": "Which of these pairs of animals are not in a mutual relationship?",
       "answer": "Cuckoo Finch and Cisticola",
       "choices": ["Honey Badgers and Honeyguide Birds", "Sharks and Cleaner Fish", "Crocodiles and Plover Birds", "Cuckoo Finch and Cisticola" ]
     },
@@ -59,7 +59,7 @@
       "id": "8",
       "category" : "animals",
       "question": "Which animal has the strongest jaw strength?",
-      "answer": "The Amazon Rainforest",
+      "answer": "Crocodiles",
       "choices": ["Gorillas", "Hippos", "Crocodiles", "Grizzly Bears" ]
     },
 
@@ -70,12 +70,53 @@
       "answer": "Giant Squids",
       "choices": ["Tarsiers", "Owls", "Giant Squids", "Slow Loris" ]
     },
+
     {
       "id": "10",
       "category" : "animals",
       "question": "Which of the following sea animal is NOT an actual animal?",
       "answer": "Hard Knucklefish",
       "choices": ["Lumpsucker", "Wunderpus photogenicus", "Dumbo Octopus", "Hard Knucklefish" ]
+    },
+
+    {
+      "id": "11",
+      "category" : "animals",
+      "question": "Which bird has the largest wingspan?",
+      "answer": "Wandering Albatross",
+      "choices": ["Andean Condor", "Trumpeter Swan", "Wandering Albatross", "Great White Pelican" ]
+    },
+
+    {
+      "id": "12",
+      "category" : "animals",
+      "question": "Which of the following animals are able to utilize echolocation?",
+      "answer": "Shrews",
+      "choices": ["Hummingbirds", "Flying Fish", "Cicadas", "Shrews" ]
+    },
+
+    {
+      "id": "13",
+      "category" : "animals",
+      "question": "Which of the following inventions took inspiration from Kingfishers?",
+      "answer": "Bullet Trains",
+      "choices": ["Airplanes", "Bullet Trains", "Space Telescopes", "Cargo Trucks" ]
+    },
+
+    {
+      "id": "14",
+      "category" : "animals",
+      "question": "Which animal is strictly a carnivore?",
+      "answer": "Walruses",
+      "choices": ["Sea Turtles", "Grizzly Bears", "Hummingbirds", "Walruses" ]
+    },
+
+    {
+      "id": "15",
+      "category" : "animals",
+      "question": "Which of the following aquatic animals lay their eggs in shallow waters?",
+      "answer": "Salmon",
+      "choices": ["Deep-sea Skates", "Dolphins", "Octopus", "Salmon" ]
     },
 
     {
