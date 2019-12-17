@@ -125,6 +125,27 @@
       "question": "Which of the following scientists created the AC motor?",
       "answer": "Nikola Tesla",
       "choices": ["Thomas Edison", "Nikola Tesla", "Alva J. Fisher", "Isaac Newton"]
+    },
+    {
+      "id": "2",
+      "category": "science",
+      "question": "Which animal was the subject of Darwin’s observations while creating the theory of evolution?",
+      "answer": "Finches",
+      "choices": ["Finches", "Tortoise", "Cats", "Dinosaurs"]
+    },
+    {
+      "id": "3",
+      "category": "science",
+      "question": "What does “c” represent in the equation, E = mc^2?",
+      "answer": "Speed of Light",
+      "choices": ["Gravitational Acceleration", "Cost", "Speed of Light", "Capital"]
+    },
+    {
+      "id": "4",
+      "category": "science",
+      "question": "Who discovered gravity in the 16th century?",
+      "answer": "Isaac Newton",
+      "choices": ["Thomas Edison", "Isaac Newton", "Nicolaus Copernicus", "Galileo Galilei"]
     }
 
 ]
