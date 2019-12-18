@@ -52,5 +52,17 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="animals" />
+
+        <Button
+            android:id="@+id/button_science_main"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="science" />
+
+        <Button
+            android:id="@+id/button_games_main"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="games" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

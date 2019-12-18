@@ -24,6 +24,8 @@ import static android.provider.MediaStore.Video.VideoColumns.CATEGORY;
 public class MainActivity extends AppCompatActivity {
 
     private Button buttonAnimals;
+    private Button buttonScience;
+    private Button buttonGames;
 
     public static final String EXTRA_CATEGORY = "category";
 
@@ -42,7 +44,8 @@ public class MainActivity extends AppCompatActivity {
 
     private void wireWidgets() {
         buttonAnimals = findViewById(R.id.button_animal_main);
-
+        buttonScience = findViewById(R.id.button_science_main);
+        buttonGames = findViewById(R.id.button_games_main);
     }
 
     private void setListeners() {
@@ -51,6 +54,26 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
 
                 // create an intent
+                Intent targetIntent = new Intent(MainActivity.this, QuizActivity.class);
+                // put a string extra with whatever the text of the current button is
+                targetIntent.putExtra(EXTRA_CATEGORY,((Button)view).getText().toString());
+                startActivity(targetIntent);
+                finish();
+            }
+        });
+        buttonScience.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent targetIntent = new Intent(MainActivity.this, QuizActivity.class);
+                // put a string extra with whatever the text of the current button is
+                targetIntent.putExtra(EXTRA_CATEGORY,((Button)view).getText().toString());
+                startActivity(targetIntent);
+                finish();
+            }
+        });
+        buttonGames.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
                 Intent targetIntent = new Intent(MainActivity.this, QuizActivity.class);
                 // put a string extra with whatever the text of the current button is
                 targetIntent.putExtra(EXTRA_CATEGORY,((Button)view).getText().toString());
