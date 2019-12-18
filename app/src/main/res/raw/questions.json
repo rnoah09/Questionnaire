@@ -146,6 +146,187 @@
       "question": "Who discovered gravity in the 16th century?",
       "answer": "Isaac Newton",
       "choices": ["Thomas Edison", "Isaac Newton", "Nicolaus Copernicus", "Galileo Galilei"]
+    },
+    {
+      "id": "5",
+      "category": "science",
+      "question": "Which of the following gases is usually used for lightbulbs?",
+      "answer": "Nitrogen",
+      "choices": ["Hydrogen", "Nitrogen", "Oxygen", "Carbon Dioxide"]
+    },
+    {
+      "id": "6",
+      "category": "science",
+      "question": "Which of the gases is not known as green house gas?",
+      "answer": "Hydrogen",
+      "choices": ["Methane", "Carbon Dioxide", "Nitrous Oxide", "Hydrogen"]
+    },
+    {
+      "id": "7",
+      "category": "science",
+      "question": "Which of the following is used as a lubricant?",
+      "answer": "Graphite",
+      "choices": ["Graphite", "Silica", "Iron Oxide", "Sulfur"]
+    },
+    {
+      "id": "8",
+      "category": "science",
+      "question": "Epoxy resins are used as",
+      "answer": "Adhesives",
+      "choices": ["Detergents", "Insecticides", "Adhesives", "Lubricants"]
+    },
+    {
+      "id": "9",
+      "category": "science",
+      "question": "Which of the following is a protein?",
+      "answer": "Natural Rubber",
+      "choices": ["Natural Rubber", "Starch", "Cellulose", "Carrageenan"]
+    },
+    {
+      "id": "10",
+      "category": "science",
+      "question": "The major ingredient of leather is",
+      "answer": "Collagen",
+      "choices": ["Carbohydrate", "Collagen", "Polymer", "Nucleic Acid"]
+    },
+    {
+      "id": "11",
+      "category": "science",
+      "question": "Fathom is the unit of",
+      "answer": "Depth",
+      "choices": ["Sound", "Depth", "Frequency", "Distance"]
+    },
+    {
+      "id": "12",
+      "category": "science",
+      "question": "One horsepower is equal to",
+      "answer": "746 watts",
+      "choices": ["746 watts", "736 watts", "748 watts", "756 watts"]
+    },
+    {
+      "id": "13",
+      "category": "science",
+      "question": "Which of the following is a positively charged particle emitted by a radioactive element?",
+      "answer": "Alpha Ray",
+      "choices": ["Beta Ray", "Alpha Ray", "Cathode Ray", "Gamma Ray"]
+    },
+    {
+      "id": "14",
+      "category": "science",
+      "question": "How are isotopes separated?",
+      "answer": "Distillation",
+      "choices": ["Crystallisation", "Sublimation", "Distillation", "Filtration"]
+    },
+    {
+      "id": "15",
+      "category": "science",
+      "question": "Who suggested that most of the mass of the atom is located in the nucleus?",
+      "answer": "Rutherford",
+      "choices": ["Thompson", "Rutherford", "Bohr", "Dalton"]
+    },
+    {
+      "id": "1",
+      "category": "games",
+      "question": "Which year did the NES release?",
+      "answer": "1985",
+      "choices": ["1985", "1973", "1969", "1992"]
+    },
+    {
+      "id": "2",
+      "category": "games",
+      "question": "In the original Super Smash Bros., how many characters were available to play?",
+      "answer": "8",
+      "choices": ["7", "8", "10", "12"]
+    },
+    {
+      "id": "3",
+      "category": "games",
+      "question": "Which of the following games has a 99/100 rating on Metacritic?",
+      "answer": "The Legend of Zelda: Ocarina of Time",
+      "choices": ["The Legend of Zelda: Ocarina of Time", "The Legend of Zelda: Breath of the Wild", "Red Dead Redemption 2", "SoulCalibur"]
+    },
+    {
+      "id": "4",
+      "category": "games",
+      "question": "When was the first video game, Pong, created?",
+      "answer": "1958",
+      "choices": ["1943", "1958", "1977", "1961"]
+    },
+    {
+      "id": "5",
+      "category": "games",
+      "question": "Which of the following modern collectible card games came first?",
+      "answer": "Magic: The Gathering",
+      "choices": ["Yu-Gi-Oh!", "Pokémon", "Magic: The Gathering", "MLB Showdown"]
+    },
+    {
+      "id": "6",
+      "category": "games",
+      "question": "What is the current record for clicks on a controller per second?",
+      "answer": "16",
+      "choices": ["16", "13", "10", "23"]
+    },
+    {
+      "id": "7",
+      "category": "games",
+      "question": "Which game is considered the first First Person Shooter (FPS) game?",
+      "answer": "Wolfenstein 3D",
+      "choices": ["Wolfenstein 3D", "Doom", "Half-Life", "GoldenEye 007"]
+    },
+    {
+      "id": "8",
+      "category": "games",
+      "question": "From which country does the popular game “Tetris” originate from?",
+      "answer": "Soviet Union",
+      "choices": ["Japan", "Italy", "France", "Soviet Union"]
+    },
+    {
+      "id": "9",
+      "category": "games",
+      "question": "Which of the following consoles was the first handheld console?",
+      "answer": "Microvision",
+      "choices": ["Game Boy", "Game & Watch", "Microvision", "Bandai LCD SolarPower"]
+    },
+    {
+      "id": "10",
+      "category": "games",
+      "question": "What was the original purpose of the board game Monopoly?",
+      "answer": "To prepare children for the unfair adult world",
+      "choices": ["To encourage family interaction", "To prepare children for the unfair adult world", "To teach children about the importance of money", "To raise awareness to the wage gap"]
+    },
+    {
+      "id": "11",
+      "category": "games",
+      "question": "Which of the following games is the longest running MMORPG?",
+      "answer": "Furcadia",
+      "choices": ["Runescape", "Ultima Online", "Furcadia", "Asheron's Call"]
+    },
+    {
+      "id": "12",
+      "category": "games",
+      "question": "Which of the following was the very first arcade game?",
+      "answer": "Computer Space",
+      "choices": ["Computer Space", "Pac-Man", "Pong", "Space Wars"]
+    },
+    {
+      "id": "13",
+      "category": "games",
+      "question": "Which of the following was the first head mounted VR device created?",
+      "answer": "Sword of Damocles",
+      "choices": ["Sword of Damocles", "EyePhone", "Lawnmower Man", "Nintendo Virtual Boy"]
+    },
+    {
+      "id": "14",
+      "category": "games",
+      "question": "Which of the following was the first open-world game?",
+      "answer": "Jet Rocket",
+      "choices": ["Hydlide", "Jet Rocket", "Metal Max", "Grand Theft Auto III"]
+    },
+    {
+      "id": "15",
+      "category": "games",
+      "question": "Which of the following games holds the record for longest single cutscene?",
+      "answer": "Metal Gear Solid 4",
+      "choices": ["Xenoblade 2", "Metal Gear Solid 4", "Final Fantasy 6", "Yakuza 0"]
     }
-
 ]
