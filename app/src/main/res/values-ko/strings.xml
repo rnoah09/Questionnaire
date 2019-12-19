@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">퀴즈</string>
+    <string name="questionnaire_title">퀴즈!</string>
+    <string name="animals">동물</string>
+    <string name="science">과학</string>
+    <string name="games">게임</string>
+    <string name="main_menu">메뉴</string>
+    <string name="choose_a_category">원하는 종류를 선택하세요</string>
+    <string name="score">점수:</string>
+</resources>

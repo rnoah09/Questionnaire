@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Questionnaire</string>
+    <string name="questionnaire_title">~Questionnaire~</string>
+    <string name="choose_a_category">Choose a Category...</string>
+    <string name="animals">animals</string>
+    <string name="science">science</string>
+    <string name="games">games</string>
+    <string name="button_a" translatable="false">A</string>
+    <string name="button_b" translatable="false">B</string>
+    <string name="button_c" translatable="false">C</string>
+    <string name="button_d" translatable="false">D</string>
+    <string name="quiz_choices" translatable="false">A: B: C: D:</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="score">Score:</string>
 </resources>

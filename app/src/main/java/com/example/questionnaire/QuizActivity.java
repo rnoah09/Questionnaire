@@ -146,6 +146,7 @@ public class QuizActivity extends AppCompatActivity {
                     }
                     else if (correctAnswer == 2) {
                         buttonPressed.setBackgroundColor(Color.rgb(255, 102, 102));
+                        buttonC.setBackgroundColor(Color.rgb(128, 255, 128));
                     }
                     else{
                         buttonPressed.setBackgroundColor(Color.rgb(255, 102, 102));
